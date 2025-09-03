@@ -1,0 +1,5 @@
+**__pycache__**
+.env
+.chainlit
+.DS_store
+.vscode
